@@ -3,7 +3,7 @@
     padding: 0;
   }
   body{
-    overflow: hidden;
+    overflow-x: hidden;
   }
   @keyframes appear {
     0%{opacity:0; transform:scale(0);}
